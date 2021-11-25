@@ -13,6 +13,8 @@ int main()
         printf("\n\nReverse of %d is %d\n\n\n\n",storage,reverse_num);
         number=number/10; /* this is to make the condition false or to control the loops repetitions*/
     }
+
+    /*Printing*/
     printf("\n\nReverse of %d is %d\n\n\n\n",storage,reverse_num); /*to print the output*/
     return 0;
 }
